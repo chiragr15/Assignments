@@ -1,0 +1,77 @@
+body{
+    background-color: slategrey;
+    align-items: center;
+}
+div.d1{
+    background-color: lightgrey;
+    align-items: center;
+    height: 325px;
+    width: 350px;
+    border-radius: 25px;
+}
+
+div.d2{
+   margin-top: 200px;
+    
+    height: 20px;
+    width: 250px;
+    
+}
+div.d3{
+    margin-left: 60px;
+    position: relative;
+    height: 50px;
+    width: 250px;
+}
+div.d4{
+    background-color: slategray;
+    align-content: center;
+    border-radius: 10px;
+    width: 235px;
+    height: 50px;
+    border: 1px solid grey;
+}
+font{
+    padding: 10px;
+}
+.ClsUserInput{
+    
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding 12px;
+    width: 230px;
+    height: 38px;
+    margin-top: 80px;
+    margin-left: 60px;
+
+}
+
+.ClsUserInput2{
+     border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    padding 12px;
+    width: 230px;
+    height: 38px;
+    
+}
+.sub1{
+    background-color: dimgrey;
+    height: 38px;
+    width: 200px;
+    
+}
+.foot{
+    background-color: lightgrey;
+    border-style: hidden;
+    
+}
+.fake-input { position: relative; width:240px; }
+.fake-input input { border:none: background:#fff; display:block; width: 230px;margin-left: 1px; box-sizing: border-box }
+.fake-input img { position: absolute; top:10px; right: 6px;height:15px;margin-right: 200px; width: 15px; 
+}
+fake-input1 { position: relative; width:240px; }
+.fake-input1 input { border:none: background:#fff; display:block; width: 230px; box-sizing: border-box }
+.fake-input1 img { position: absolute; top: 367px; right: 510px;margin-right: 275px; height: 15px;width: 15px }
+div.use{
+    margin-bottom: -35px;
+}

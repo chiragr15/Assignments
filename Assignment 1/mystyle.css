@@ -1,0 +1,39 @@
+body{
+    background-color: beige
+}
+div.ex1{
+   background-color: skyblue;
+    width: 300px;
+}
+div.ex2{
+    background-color: aliceblue;
+    height: 180px;
+    width: 300px;
+}
+div.ex3{
+    background-color: skyblue;
+    height: 20px;
+    width: 300px;
+}
+img.i1{
+    padding-left: 5px;
+    padding-top: 20px;
+    width: 20px;
+    height: 20px;
+}
+img.i2{
+    padding-left: 5px;
+    padding-top: 30px;
+    width: 20px;
+    height: 20px;
+}
+input.b1{
+    padding-left: 1px;
+}
+font.f1{
+    padding-top: 20px;
+}
+.l1{
+    height: 15px;
+    width: 50px;
+}
